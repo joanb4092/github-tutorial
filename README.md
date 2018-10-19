@@ -12,8 +12,9 @@ _by Joan Balbuena_
 
 ---
 ## Initial Setup
-To create be able to use both Git and GitHub, you would need to create 2 accounts, so that you'd be able to
-
+To be able to use both Git and GitHub, you would need to create 2 accounts, so that you'd be able to see what you have created
+First, go to [Github.com](https://github.com)  
+Then once you're at the website, you need to click **Sign Up**
 
 ---
 ## Repository Setup
