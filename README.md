@@ -5,10 +5,14 @@ _by Joan Balbuena_
 ---
 ## Git vs. GitHub
 * Git 
-    * Keeps snapshots of code and allows you to edit code in the command line. Used to create/edit files, add files, and commit files, where it's all stored in Github.
+    * Git is a version control system that saves files and its change history.  
+    * It keeps snapshots of code and allows you to edit code in the command line.   
+    * Used to create/edit files, add files, and commit files, where it's all stored in Github.  
 * Github
-    * Stores the code in a cloud where it is able to be altered later on. Used to track changes done in code and can be used to easily collaborate with files.
-    *  Requires Git to properly function and store previously edited/created/altered code.
+    * Stores the code in a cloud where it is able to be altered later on.   
+    * Used to track changes with visuals that help programmars clearly see changes.
+    * Github can be used to allow easy collaboration between groups of people on one file.  
+    * Requires Git to properly function and store previously edited/created/altered code.  
 
 ---
 ## Initial Setup
