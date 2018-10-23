@@ -18,7 +18,7 @@ Then once you're at the website, you need to click **Sign Up**
 1. Once you clicked sign up, you will need to create your account with a username, email, and password. [If you use an HSTAT Email, your username should your email excluding the '@hstat.org']  
 2. After you have filled in the information, you will need to chose a plan. I suggest chosing the free plan unless you'd want to pay for a program you'd most likely never use past High School or College.
 3. You will then need to fill in more information on what you would want to use github for, your experience with coding, and how you would describe yourself. Once that's done, click submit.
-4. You now have a github accountwhere you are able to check what code you've made and your contribution on your account during the past yearly interval.
+4. You now have a github account where you are able to check what code you've made and your contribution on your account during the past yearly interval.
 5. You are now able to create a Repository, which will require Git to properly show anything on the created repo.
 6. To use git, you'd need to go to [c9.io](https://c9.io), and click "Login for existing c9.io customers".
 7. You will then see a screen that reads "Sign in to Cloud9". Click on the cat icon button below the Sign In button.
