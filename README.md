@@ -40,6 +40,8 @@ When cloning repositories from github, you'd need to utilize the repositories SS
 To create a Repository
 1. You will first need to go into your c9.io workspace and create a directory with the command ```mkdir [Repository Name]```.
 2. Then use command `cd [Repo Name]` and enter the repository you just created.
+3. Once inside the repository, create any file inside that repository, such as a ".md" file, which can be opened and edited by simply double clicking
+4. 
 
 
 ---
