@@ -52,8 +52,38 @@ To create a Repository
 
 ---
 ## Workflow & Commands
+Commands necessary for C9/Workspace use are:  
 
-
-
+```↑ (up arrow)```: Re-use commands that you have typed  
+```(tab)```: Complete a custom directory/file/command  
+```(control C/D)```: Brings you back to the root of the code     
+```clear```: Clears all of the code on screen  
+```..```: Goes back 1 directory when written as “Cd ..”  
+```~```: Goes back to the root of the directories  
+```/```: Can be used to go into multiple directories/folders  
+```pwd```: Brings you back to root code  
+```ls```: List directories that are in the folder  
+```cd```: Transfers you into a folder  
+```mkdir```: Creates a new directory  
+```rmdir```: Removes a directory  
+```touch```: Can be used to create a new file  
+```rm```: Removes files  
+```rm -rf```: Removes folders that are not empty  
+```mv (to rename)```: Can rename a file if you made a mistake  
+```git init```: Initializes Git in Directory  
+```rm -rf .git```: Permanently deletes git folder and everything inside  
+```git add [file]```: Adds the file to the stage for it to be commited  
+```git add .```: Adds directory or repo that you are in, onto the stage  
+```git add --all```: Includes all changes even with deleted files  
+```git commit -m [message]```: Takes a snapshot of the files on the stage  
+```git remote add origin URL```: Is able to add a remote with either origin or url  
+```git push -u origin master```: Pushes changes to the remote repo  
+```git push```: Pushes changes to repo on Github  
+```git diff```: Used to analyze current state of Repo  
+```git log```: Similar as git staus, by listing commits made to the repo/file  
+```git checkout --[file]```: Will copy over existing file and delete all changes 
+```git reset HEAD file```: Resets current folder/ Undoes past actions  
+```git remote -v```: Tells you where Git Push will push files to
+```git pull```:
 ---
 ## Rolling Back Changes
