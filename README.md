@@ -87,3 +87,4 @@ Commands necessary for C9/Workspace use are:
 ```git pull```:
 ---
 ## Rolling Back Changes
+**I did not have enough time to finish this portion of the prject due to having to finish this at home since i can barely keep anorganized schedule for more than 2 days.**
